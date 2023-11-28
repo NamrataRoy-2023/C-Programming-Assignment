@@ -1,0 +1,1 @@
+///14. Write a C program to compare two strings using pointers.
